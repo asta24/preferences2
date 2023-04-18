@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">preferences2</string>
+    <string name="et_nombre">Escribe tu nombre</string>
+    <string name="et_apellido">Escribe tu apellido</string>
+    <string name="et_contraseña">Escribe tu contraseña</string>
+    <string name="boton_Guardar">Guardar</string>
+</resources>
